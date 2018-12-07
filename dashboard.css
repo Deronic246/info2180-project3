@@ -1,0 +1,56 @@
+.label{
+	display:inline;
+	padding:.2em .6em .3em;
+	font-size:75%;
+	font-weight:bold;
+	line-height:1;
+	color:black;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:baseline;
+	border-radius:.25em;
+				
+}
+
+.label-info{
+	background-color:yellow;
+}
+
+table{
+	width:800px;
+	border-collapse: collapse;
+}
+
+table th{
+	background-color: #c0c5ce;
+	padding:10px;
+	text-align: left;
+}
+
+tr{
+	border-bottom:1px solid #C0D6E4;
+}
+
+td{
+	height:50px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#top h1 {
+	float: left;
+	padding-right: 500px;
+}
+
+#pj{
+	background-color: #7FFF00;
+	color:white;
+	width: 150px;
+	height: 50px;
+}
+
+#b1{
+	padding-top: 10px;
+}

@@ -1,0 +1,55 @@
+.page{
+	display: grid;
+	grid-template-rows:1fr 15fr;
+	margin: -10px;
+}
+
+.overall{
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+
+}
+
+.menubar{
+	background-color: #192837;
+	padding-left: 40px;
+}
+
+.sidebar{
+	background-color: #c0c5ce;
+	
+}
+
+.body{
+	padding-left: 40px;
+}
+
+.menubar h3{
+	color: white;
+}
+
+
+
+#options img{
+	width:20px;
+	height: 20px;
+	border-radius: 50%;
+
+
+}
+
+#options{
+	list-style-type: none;
+
+}
+
+#options li:hover{
+	color: blue;
+}
+
+#options h3{
+	display: inline-block;
+	padding-left: 20px;
+
+}
+

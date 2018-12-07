@@ -1,0 +1,19 @@
+form #title, #category, #comp, #loc{
+	width:500px;
+	height:30px;
+}
+
+form #desc{
+	width:500px;
+	height:100px;
+}
+
+form #submit{
+	background-color: #005b96;
+	color:white;
+	width:100px;
+	height: 40px;
+}
+
+
+

@@ -1,0 +1,52 @@
+
+.body{
+	padding-left: 40px;
+}
+
+
+
+table{
+	width:700px;
+	border-collapse: collapse;
+}
+
+table th{
+	background-color: #c0c5ce;
+	padding:10px;
+}
+
+#top h1 {
+	float: left;
+	padding-right: 500px;
+}
+
+#app{
+	background-color: #7FFF00;
+	color:white;
+	width: 150px;
+	height: 50px;
+}
+
+#b1{
+	padding-top: 10px;
+	background-color:#2eee11;
+	width:150px;
+	height:50px;
+	text-align:center;
+	color:white;
+	margin-top:10px;
+	margin-right:-50px;
+}
+
+h6{
+	color:#c0d6e4;
+}
+
+h1{
+	float:left;
+}
+			
+
+
+
+
